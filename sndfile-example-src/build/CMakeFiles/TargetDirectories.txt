@@ -1,0 +1,9 @@
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/rebuild_cache.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/edit_cache.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/BitStream.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/wav_effects.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/wav_dct.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/wav_cmp.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/wav_quant.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/wav_hist.dir
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/build/CMakeFiles/wav_cp.dir

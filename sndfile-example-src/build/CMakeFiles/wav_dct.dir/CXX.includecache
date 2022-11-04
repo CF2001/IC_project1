@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/BitStream.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+typeinfo
+-
+
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/wav_dct.cpp
+iostream
+-
+vector
+-
+cmath
+-
+fftw3.h
+-
+sndfile.hh
+-
+bitset
+-
+cstring
+-
+BitStream.h
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/BitStream.h
+wav_dct.h
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/wav_dct.h
+
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/wav_dct.h
+iostream
+-
+

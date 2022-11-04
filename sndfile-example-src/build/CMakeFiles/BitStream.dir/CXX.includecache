@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/BitStream.cpp
+iostream
+-
+cstring
+-
+fstream
+-
+BitStream.h
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/BitStream.h
+
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/BitStream.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+typeinfo
+-
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/wav_effects.cpp
+iostream
+-
+vector
+-
+sndfile.hh
+-
+wav_effects.h
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/wav_effects.h
+
+/home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-src/wav_effects.h
+iostream
+-
+vector
+-
+map
+-
+sndfile.hh
+-
+fstream
+-
+

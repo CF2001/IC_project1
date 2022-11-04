@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++17 -O3   CMakeFiles/BitStream.dir/BitStream.cpp.o  -o /home/anaclaudia/Documents/UA/4_Ano/IC/project_1/sndfile-example-bin/BitStream  -lsndfile 
