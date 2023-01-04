@@ -99,7 +99,7 @@ To test Exercise 8:
 		../sndfile-example-bin/wav_dct ../audioFiles/sample.wav dct_sample.wav binaryFile.out
 		
 ****
-##Grade: 18,1
+## Grade: 18,1
 	
 	
 	
