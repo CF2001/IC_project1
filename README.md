@@ -1,6 +1,6 @@
 # Project 1 - Information and Coding 
 
-## Compiling the code
+### Compiling the code
 
 In a terminal, enter the **build** directory of your project and run _make_ 
 
@@ -9,7 +9,6 @@ cd «directory-of-your-choice»
 cd «your-project»«your-project»«your-project»/build
 make
 ```
-****** 
 	
 ### To test Exercise 2:
 
