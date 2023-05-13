@@ -5,12 +5,11 @@
 In a terminal, enter the **build** directory of your project and run _make_ 
 
 ```
-cd «directory-of-your-choice»
-cd «your-project»«your-project»«your-project»/build
+cd sndfile-example-src/build
 make
 ```
 	
-### To test Exercise 2:
+#### To test exercise 2:
 
 ```
 ../sndfile-example-bin/wav_hist <input file> <histogram type>
@@ -32,7 +31,7 @@ Exemplification:
 	../sndfile-example-bin/wav_hist ../audioFiles/sample01.wav 0 > histogram_0.txt
 ```
 
-### To test Exercise 3:
+#### To test exercise 3:
 
 ```
 ../sndfile-example-bin/wav_quant <input file> <output file> <resolution bits>
@@ -47,7 +46,7 @@ Exemplification:
 ```
 	
 
-### To test Exercise 4:
+#### To test exercise 4:
 
 ```
 ../sndfile-example-bin/wav_cmp <input file> <output file>
@@ -60,7 +59,7 @@ Exemplification:
 
 ```
 
-### To test Exercise 5:
+#### To test exercise 5:
 
 ```
 ../sndfile-example-bin/wav_effects <input file> <output file> <effectType> [<gain> <delay>]
@@ -78,29 +77,29 @@ Exemplification:
 	../sndfile-example-bin/wav_effects ../audioFiles/sample02.wav sample02_simpleEco.wav 0 0.9 10000
 ```
 	
-### To test Exercise 6/7:
+#### To test exercise 6/7:
 
 ```
-	../sndfile-example-bin/BitStream <text file> <binary file> <mode type>
-	
-	<text file> => .txt file
-	<binary file> => .out file 
-	<mode type>:
-		=> -w (to test encoder)
-		=> -r (to test decoder)
-		
-		
-	Exemplification:	
-		To test the ENCODER:
-		../sndfile-example-bin/BitStream write64bits_toBinaryFile.txt binaryFile.out -w
-		
-		Note: Check the bits written to the binary file using the command: xxd -b <binary file>
-		
-		To test the DECODER:
-		../sndfile-example-bin/BitStream readNbits_fromBinaryFile.txt binaryFile.out -r
+../sndfile-example-bin/BitStream <text file> <binary file> <mode type>
+
+<text file> => .txt file
+<binary file> => .out file 
+<mode type>:
+	=> -w (to test encoder)
+	=> -r (to test decoder)
+
+
+Exemplification:	
+	To test the ENCODER:
+	../sndfile-example-bin/BitStream write64bits_toBinaryFile.txt binaryFile.out -w
+
+	Note: Check the bits written to the binary file using the command: xxd -b <binary file>
+
+	To test the DECODER:
+	../sndfile-example-bin/BitStream readNbits_fromBinaryFile.txt binaryFile.out -r
 ```
 
-### To test Exercise 8:
+#### To test exercise 8:
 
 ```
 ../sndfile-example-bin/wav_dct <wavFileIn> <wavFileOut> <binaryFile>
@@ -113,10 +112,10 @@ Exemplification:
 	../sndfile-example-bin/wav_dct ../audioFiles/sample.wav dct_sample.wav binaryFile.out
 ```
 
+***
 
 Projects developed with [Júlia Abrantes](https://github.com/JuliaAbrantes) and [Sara Costa](https://github.com/saracarolina80).
 	
-****
 #### Grade: 18,1
 	
 	
