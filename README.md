@@ -114,7 +114,7 @@ Exemplification:
 
 ***
 	
-#### Grade: 18,1
+#### Grade: 18,1/20
 	
 Projects developed with [Júlia Abrantes](https://github.com/JuliaAbrantes) and [Sara Costa](https://github.com/saracarolina80).
 
